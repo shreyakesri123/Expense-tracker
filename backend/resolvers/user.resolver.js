@@ -2,8 +2,8 @@ import {users} from '../dummyData/data.js'
 
 const userResolver={
    Query:{
-    users:()=>{
-        return users
+    users:(_,{req,res})=>{
+        return users;
     },
     user:(_, {userId})=>{
         return users.find((user)=used._id==userId);
