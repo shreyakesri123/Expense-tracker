@@ -10,3 +10,5 @@ Expense Tracker App: A full-featured financial management tool built with React 
    ![Screenshot (17)](https://github.com/user-attachments/assets/53c28456-70c5-4743-bd54-a53956cf3913)
 
 3. This is the page where users can update their transaction data .
+
+![Screenshot (18)](https://github.com/user-attachments/assets/a72e9c04-14cd-434c-94a5-39c19a2fd717)
