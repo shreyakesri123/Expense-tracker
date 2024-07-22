@@ -31,6 +31,21 @@ FEATURES :
 
 PROECT SET-UP!!
 
-Clone the Repository:
-Open your terminal and clone the repository : 
+1. Clone the Repository:
+
+Open your terminal and clone the repository : https://github.com/shreyakesri123/Expense-tracker.git
+
+2.Install Dependencies: using 
+
+npm install 
+
+3.Start the Development Server: using  
+
+npm run dev 
+
+4.Start the backend server :using 
+
+npm start 
+
+
 
