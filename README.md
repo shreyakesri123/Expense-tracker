@@ -14,6 +14,7 @@ Expense Tracker App: A full-featured financial management tool built with React 
 ![Screenshot (18)](https://github.com/user-attachments/assets/a72e9c04-14cd-434c-94a5-39c19a2fd717)
 
 FEATURES :
+
 🌟 Tech stack: MERN (MongoDB, Express.js, React.js, Node.js) + Apollo GraphQL
 
 📝 Learn type definitions and resolvers for defining GraphQL schema and data fetching logic
@@ -27,4 +28,9 @@ FEATURES :
 🐞 Error handling both on the server and on the client
 
 ⏳ And much more!
+
+PROECT SET-UP!!
+
+Clone the Repository:
+Open your terminal and clone the repository : 
 
