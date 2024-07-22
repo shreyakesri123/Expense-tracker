@@ -5,3 +5,6 @@ Welcome to the ME Expense Tracker App! This project is designed to help you mana
 
 2. This is my Landing Page
  ![Screenshot (17)](https://github.com/user-attachments/assets/bc727f9c-c5f6-45cb-b226-a446bf2df7a3)
+
+3. This is the page where u can update your transactions
+   ![Screenshot (18)](https://github.com/user-attachments/assets/84208f5a-0196-46fc-b568-d277500b2bd0)
